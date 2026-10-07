@@ -1,6 +1,6 @@
 # Edoardo Paolini
 
-Ph.D. student in Computer Science at the University of Verona (BraiNAVLab). I build EEG and TMS-EEG methods based on brain connectomics, with the goal of personalizing the treatment of epilepsy.
+Ph.D. student in Computer Science at the University of Verona ([BraiNAVLab](https://brainavlab.github.io/)). I build EEG and TMS-EEG methods based on brain connectomics, with the goal of personalizing the treatment of epilepsy.
 
 I work on EEG and TMS-EEG preprocessing, source estimation, functional and effective connectivity, and microstates as biomarkers of neurological disease. I have spent time as a visiting student at Boston Children's Hospital (pediatric epilepsy surgery) and at BrainCapture ApS in Lyngby (portable EEG and AI).
 
