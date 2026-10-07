@@ -27,6 +27,7 @@ The full list is on [my website](https://edoardopaolini.github.io/publications/)
 ## Find me
 
 [![Website](https://img.shields.io/badge/Website-111?logo=safari&logoColor=white)](https://edoardopaolini.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/edoardopaolini/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LyUtdN4AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7944-2081)
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57224196449)
